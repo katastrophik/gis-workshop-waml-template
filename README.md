@@ -8,4 +8,4 @@ Want to use this template? Great! Just fork it and follow these [instructions fo
 
 The template provided here was created by [Evan Thornberry](https://github.com/ect123) (UBC) and [Phil White](https://github.com/outpw) (CU Boulder) as part of the Western Association of Map Libraries (WAML) 2020 preconference workshop on teaching with GitHub.
 
-I'm [Katherine] (https://github.com/katastrophik) (UTAustin)
+I'm Katherine (https://github.com/katastrophik) (UTAustin)
