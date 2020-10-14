@@ -1,5 +1,5 @@
 ---
 layout: default
-title: Your New Page's Title
+title: Kat's Favorite Map
 nav_order: 11
 ---
