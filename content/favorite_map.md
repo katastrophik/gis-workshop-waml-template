@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Kat's Favorite Map
-nav_order: 11
+nav_order: 2.5
 ---
 ![favorite map](img/fav-map.png)
 
